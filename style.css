@@ -1,0 +1,25 @@
+/******************/
+/*** Custom CSS ***/
+/******************/
+
+body{
+	width: 780px;
+	margin: 0 auto;
+	font-family: Cambria, Georgia, serif;
+}
+dt{
+	font-weight: bold;
+}
+.marin, .marin dl, .marin li, .marin dd, .marin dt {
+	margin:0;
+	padding: 0;
+}
+.marin dd, .marin dt{
+	margin-bottom: 10px;	
+}
+.marin li{
+	width: 380px;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 50px;
+}
