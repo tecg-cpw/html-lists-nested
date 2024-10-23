@@ -1,3 +1,5 @@
+@import url(https://fonts.bunny.net/css?family=aleo:400,700);
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -386,7 +388,7 @@ html{
 }
 body {
     font-size: 18px;
-    font-family: Charter, Cambria, Georgia, serif;
+    font-family: Aleo, Charter, Cambria, Georgia, serif;
     max-width: 60em;
     line-height: 1.5;
     margin: 0 auto;
